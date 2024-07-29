@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005-Uji Tambah Data Tingkat Pendidikan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe4c4d3f-77cd-48bf-989b-6c67a5ceaa0d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TD002-Uji Fitur Login Sukses</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17daa68e-ce98-4654-bfe7-302a7e497ae2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05ce3eb6-554b-4a86-8454-8d8e7deaa933</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e38c868e-0f96-4425-956f-b87ad85c4c2e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin@gmail.com'</defaultValue>
+      <description></description>
+      <id>05ce3eb6-554b-4a86-8454-8d8e7deaa933</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Aecf0DW5CFCw1eZucu/oRw=='</defaultValue>
+      <description></description>
+      <id>e38c868e-0f96-4425-956f-b87ad85c4c2e</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

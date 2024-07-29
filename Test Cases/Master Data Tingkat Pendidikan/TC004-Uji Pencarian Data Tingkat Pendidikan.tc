@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004-Uji Pencarian Data Tingkat Pendidikan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e75834c8-529b-4be0-bc65-df846f7d17b8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Uji Fitur Login Sukses</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96e1adb1-b058-4122-a412-52d045a07ea2</testCaseGuid>
+</TestCaseEntity>

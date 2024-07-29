@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TD001-Uji Fitur Login Sukses</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>067011b3-f830-4739-80cf-1f60e5a6956e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>21de3742-f412-4a8a-a90d-35121cb0b371</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data User</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>21de3742-f412-4a8a-a90d-35121cb0b371</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
+      <variableId>81e1d4bc-9cf7-4b07-a536-60cec6a8906d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>21de3742-f412-4a8a-a90d-35121cb0b371</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>10446118-0eb2-4ebd-a5a8-e7ccc6c8e86b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>81e1d4bc-9cf7-4b07-a536-60cec6a8906d</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>10446118-0eb2-4ebd-a5a8-e7ccc6c8e86b</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

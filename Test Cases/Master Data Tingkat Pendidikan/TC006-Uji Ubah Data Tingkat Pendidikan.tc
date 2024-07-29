@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006-Uji Ubah Data Tingkat Pendidikan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1e02cd8c-e4ce-440f-9b8c-2337d64dc821</testCaseGuid>
+</TestCaseEntity>

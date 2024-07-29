@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-Validasi Halaman Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8991f9fc-f3e4-47ac-b5e2-42c2addc2dec</testCaseGuid>
+</TestCaseEntity>

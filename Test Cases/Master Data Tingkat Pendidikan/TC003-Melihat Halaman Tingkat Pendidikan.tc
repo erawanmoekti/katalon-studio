@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003-Melihat Halaman Tingkat Pendidikan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>befa3107-acdd-4db7-aff0-600c6bbb4809</testCaseGuid>
+</TestCaseEntity>
