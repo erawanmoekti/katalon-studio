@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009-Input Timesheet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df8919c1-f7bd-40c0-b691-ff8983e96ae2</testCaseGuid>
+</TestCaseEntity>

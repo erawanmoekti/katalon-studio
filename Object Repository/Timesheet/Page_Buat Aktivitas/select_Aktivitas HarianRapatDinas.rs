@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Aktivitas HarianRapatDinas</name>
+   <tag></tag>
+   <elementGuidId>8430d89b-02ad-44eb-9066-1aad439549af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#aktivitas-kategori_aktivitas_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='aktivitas-kategori_aktivitas_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Kategori Aktivitas&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3338ca40-e0ed-481d-b122-ea6825ab5201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>aktivitas-kategori_aktivitas_id</value>
+      <webElementGuid>304e95fd-e6c6-4c77-b4f4-e3ba6d8c90ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>268f338e-6c4d-45fe-b419-6b714e8f974e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Aktivitas[kategori_aktivitas_id]</value>
+      <webElementGuid>ecf93844-5a4b-468a-a02c-ce5be1ff74e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Aktivitas Harian
+Rapat
+Dinas
+</value>
+      <webElementGuid>b7e94c9c-dbeb-49b1-ba47-61839a2c7689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aktivitas-kategori_aktivitas_id&quot;)</value>
+      <webElementGuid>8a912744-be11-432d-bea0-30114b4aab1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='aktivitas-kategori_aktivitas_id']</value>
+      <webElementGuid>32e03daf-03c3-4132-b442-33e6205b9523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='w0']/div[2]/select</value>
+      <webElementGuid>3ffe5152-074c-4791-bad6-db3371c68204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Aktivitas'])[1]/following::select[1]</value>
+      <webElementGuid>1a06063e-0ff8-4174-8795-4d332b41841a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Durasi (Jam)'])[1]/following::select[2]</value>
+      <webElementGuid>db86fe08-e067-4ff0-a3ce-fb70e4486acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Aktivitas'])[1]/preceding::select[1]</value>
+      <webElementGuid>a972184b-8881-47ee-a11b-91d2ac48cec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/preceding::select[1]</value>
+      <webElementGuid>238c3de8-74ff-4001-a1f1-44f7d1e379d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>9997b9de-c11a-4d4c-b6ca-cc93344ec2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'aktivitas-kategori_aktivitas_id' and @name = 'Aktivitas[kategori_aktivitas_id]' and (text() = '
+Aktivitas Harian
+Rapat
+Dinas
+' or . = '
+Aktivitas Harian
+Rapat
+Dinas
+')]</value>
+      <webElementGuid>1c7b0ca6-757b-409d-9378-852f58e1f3c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
