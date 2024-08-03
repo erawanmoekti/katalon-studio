@@ -26,3 +26,5 @@ WebUI.verifyElementText(findTestObject('Object Repository/Login Page/Page_SIMAJA
 WebUI.verifyElementText(findTestObject('Object Repository/Login Page/Page_SIMAJA/p_Masukkan email dan password untuk masuk aplikasi'), 
     'Masukkan email dan password untuk masuk aplikasi')
 
+WebUI.acceptAlert()
+
